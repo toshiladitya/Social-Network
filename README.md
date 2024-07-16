@@ -24,8 +24,8 @@ This project is a Django-based social networking API with functionalities to sen
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/social-networking-api.git
-    cd social-networking-api
+    git clone https://github.com/toshiladitya/Social-Network.git
+    cd social_network
     ```
 
 2. **Create a virtual environment and activate it:**
